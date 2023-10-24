@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Jesús Vega</h1>
-<h3 align="center">Un apasionado full stack jr de Colombia</h3>
+<h3 align="center">Estudiante de ingeneria de sistemas y ciencias de datos </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanvega22&label=Profile%20views&color=0e75b6&style=flat" alt="juanvega22" /> </p>
 
